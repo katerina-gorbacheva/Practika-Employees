@@ -1,0 +1,15 @@
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\obj\Debug\пр 3 Горбачева.csproj.AssemblyReference.cache
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\obj\Debug\MainWindow.g.cs
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\obj\Debug\App.g.cs
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\obj\Debug\пр 3 Горбачева_MarkupCompile.cache
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\obj\Debug\пр 3 Горбачева_MarkupCompile.lref
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\bin\Debug\пр 3 Горбачева.exe.config
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\bin\Debug\пр 3 Горбачева.exe
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\bin\Debug\пр 3 Горбачева.pdb
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\obj\Debug\MainWindow.baml
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\obj\Debug\пр 3 Горбачева.g.resources
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\obj\Debug\пр_3_Горбачева.Properties.Resources.resources
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\obj\Debug\пр 3 Горбачева.csproj.GenerateResource.cache
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\obj\Debug\пр 3 Горбачева.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\obj\Debug\пр 3 Горбачева.exe
+C:\Users\111\source\repos\пр 3 Горбачева\пр 3 Горбачева\obj\Debug\пр 3 Горбачева.pdb
